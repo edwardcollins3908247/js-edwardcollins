@@ -1,0 +1,29 @@
+{
+  "name": "js-edwardcollins",
+  "version": "1.0.0",
+  "description": "Js-edwardcollins is a Node.js module containing a collection of funky utility functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwardcollins3908247/js-edwardcollins"
+  },
+  "dependencies": {
+	  "donaldrodriguez-os": "1.0.0",
+"layer-v22": "1.0.0",
+"loginovy-js": "1.0.0",
+"carolscott-code": "1.0.0",
+"glushkivan-module": "1.0.0",
+"zyat": "1.0.0",
+    "lodash": "^4.17.21",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardcollins3908247/js-edwardcollins/issues"
+  },
+  "homepage": "https://github.com/edwardcollins3908247/js-edwardcollins#readme"
+}
